@@ -38,7 +38,7 @@ export default function StoreListings() {
                             <h5 style={{ fontWeight: "bold" }}>Kroger</h5>
                             <p>Delivery</p>
                         </Col>
-                    </Row>
+                    </Row>                   
                 </Row>               
             </Container>
         </div >
